@@ -10,9 +10,9 @@ Check the latest version at https://github.com/DavidBurela/c4-repository-templat
 - VS Code: Syntax highlighting  
 https://marketplace.visualstudio.com/items?itemName=ciarant.vscode-structurizr
 
-## How to view
+## How to view a C4 model
 
-### Online
+### Online (for others wanting to quickly view)
 
 1. Copy the contents of `workspace.dsl`
 2. Go to <https://structurizr.com/dsl> 
